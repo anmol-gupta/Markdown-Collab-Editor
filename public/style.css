@@ -4,7 +4,7 @@ html, body, section, .full-height {
 
 #pad{
     font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
-
+    background-color: blanchedalmond;
     border: none;
     overflow: auto;
     outline: none;
